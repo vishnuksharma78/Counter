@@ -1,0 +1,18 @@
+.container{
+    position: relative;
+    top: 60px;
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid red;
+    padding: 20px;
+}
+button{
+    border-radius: 10px;
+    margin: 0 40px 0 40px;
+    padding: 4px 30px 4px 30px;
+}
+.para{
+   padding-left: 50px;
+    color: rgb(228, 54, 54);
+}
